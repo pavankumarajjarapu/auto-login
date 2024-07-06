@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+form{
+  background-color: beige;
+  border: 3px solid blue;
+  height: 300px;
+  width: 500px;
+  display: inline-block;
+  border-radius: 5px;
+  margin-top: 29px;
+  
+}
+label{
+  display: inline-block;
+  width: 120px;
+  font-family: cursive;
+  font-size: 24px;
+  color: chocolate;
+}
+input{
+  height: 24px;
+  width: 200px;
+  margin: 12px;
+  box-shadow: 1px 2px 3px gray;
+}
+h1{
+  color: rgb(14, 220, 134);
+  font-family: monospace;
+  font-size: 3rem;
+}
+button{
+  height: 35px;
+  width: 130px;
+  border: 2px groove gray;
+  background-color: azure;
+  border-radius: 3px;
+  margin-top: 15px;
+  font-style:italic;
+}
